@@ -30,6 +30,11 @@
         "title":"ELMAS TV",
         "image": "https://elmastv.com/source/elmas.favicon.180x180.png",
         "action": "link:https://elmasappapi.cyou/elwebos/index.html"
+      },
+      {
+        "title":"MovieJavan OLD TV",
+        "image": "https://www.moviejavan.com/favicon/apple-touch-icon.png",
+        "action": "link:http://mj-webos.com/mjwebos/index.html"
       }
     ]
   }
