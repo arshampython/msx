@@ -1,26 +1,5 @@
 {
-    "mainMenu": {
-      "type": "menu",
-      "title": "ویدیوهای من",
-      "background": "https://via.placeholder.com/1280x720.png?text=My+MSX+App",
-      "items": [
-        {
-          "title": "ویدیو تست اول",
-          "image": "https://via.placeholder.com/300.png?text=Video+1",
-          "action": {
-            "type": "video",
-            "url": "https://www.w3schools.com/html/mov_bbb.mp4"
-          }
-        },
-        {
-          "title": "ویدیو تست دوم",
-          "image": "https://via.placeholder.com/300.png?text=Video+2",
-          "action": {
-            "type": "video",
-            "url": "https://media.w3.org/2010/05/sintel/trailer.mp4"
-          }
-        }
-      ]
-    }
-  }
-  
+    "name": "GitHub Pages Example",
+    "version": "1.0.2",
+    "parameter": "menu:https://arshampython.github.io/msx/data/menu.json"
+}
