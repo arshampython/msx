@@ -1,0 +1,22 @@
+{
+    "headline": "GitHub Pages Example",
+    "menu": [
+        {
+            "icon": "info",
+            "label": "Welcome",
+            "data": "https://benzac-de.github.io/msx/data/welcome.json"
+        },
+        {
+            "type": "separator",
+            "label": "Base"
+        },
+        {
+            "icon": "movie,
+            "label": “Movie Javan ,
+            "data": "https://arshampython.github.io/msx/data/base/moviejavan.json"
+        },
+          "label": "Sixth List",
+            "data": "https://benzac-de.github.io/msx/data/extended/list5.json"
+        },
+    ]
+}
