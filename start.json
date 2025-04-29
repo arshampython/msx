@@ -1,5 +1,5 @@
 {
     "name": "GitHub Pages Example",
     "version": "1.0.2",
-    "parameter": "content:https://arshampython.github.io/msx/data/moviejavan.json"
+    "parameter": "menu:https://benzac-de.github.io/msx/data/menu.json"
 }
